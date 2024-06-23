@@ -1,0 +1,52 @@
+{
+    "jogadores": [
+        {
+            "nome": "Ronaldo",
+            "imagem": "assets/Ronaldo.png",
+            "ataque": 95,
+            "defesa": 40
+        },
+        {
+            "nome": "Van Dijk",
+            "imagem": "assets/VanDijk.png",
+            "ataque": 46,
+            "defesa": 92
+        },
+        {
+            "nome": "Pele",
+            "imagem": "assets/Pele.png",
+            "ataque": 99,
+            "defesa": 40
+        },
+        {
+            "nome": "Ramos",
+            "imagem": "assets/Ramos.png",
+            "ataque": 46,
+            "defesa": 96
+        },
+        {
+            "nome": "Gustavo Barbosa",
+            "imagem": "assets/Gustavo.png",
+            "ataque": 95,
+            "defesa": 99
+        },
+        {
+            "nome": "Diogo Gaspar",
+            "imagem": "assets/Diogo.png",
+            "ataque": 99,
+            "defesa": 95
+        },
+        {
+            "nome": "Ruben Abrbosa",
+            "imagem": "assets/Ruben.png",
+            "ataque": 85,
+            "defesa": 36
+        },
+        {
+            "nome": "Hugo Guimaraes",
+            "imagem": "assets/Hugo.png",
+            "ataque": 50,
+            "defesa": 89
+        }
+    ]
+}

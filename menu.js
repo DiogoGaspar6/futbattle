@@ -1,3 +1,4 @@
+
 class MenuScene extends Phaser.Scene {
     constructor() {
         super({ key: 'MenuScene' });
@@ -9,7 +10,7 @@ class MenuScene extends Phaser.Scene {
     }
 
     create() {
-        this.add.image(400, 300, 'menuBackground').setDisplaySize(800,600);
+        this.add.image(400, 300, 'menuBackground').setDisplaySize(800, 600);
 
         if (!this.sound.get('menuMusic')) {
             this.menuMusic = this.sound.add('menuMusic', { loop: true });

@@ -25,27 +25,27 @@
             "defesa": 96
         },
         {
-            "nome": "Gustavo Barbosa",
-            "imagem": "assets/Gustavo.png",
-            "ataque": 95,
-            "defesa": 99
+            "nome": "Courtois",
+            "imagem": "assets/Courtois.png",
+            "ataque": 10,
+            "defesa": 97
         },
         {
-            "nome": "Diogo Gaspar",
-            "imagem": "assets/Diogo.png",
-            "ataque": 99,
-            "defesa": 95
+            "nome": "De Gea",
+            "imagem": "assets/DeGea.png",
+            "ataque": 15,
+            "defesa": 80
         },
         {
-            "nome": "Ruben Abrbosa",
-            "imagem": "assets/Ruben.png",
+            "nome": "Joao Palhinha",
+            "imagem": "assets/Palhinha.png",
+            "ataque": 75,
+            "defesa": 79
+        },
+        {
+            "nome": "Joao Neves",
+            "imagem": "assets/Neves.png",
             "ataque": 85,
-            "defesa": 36
-        },
-        {
-            "nome": "Hugo Guimaraes",
-            "imagem": "assets/Hugo.png",
-            "ataque": 50,
             "defesa": 89
         }
     ]
